@@ -32,7 +32,7 @@ UTMCC DataViz Module 10
 
    ### Resources
   * Data/content sources: NASA web content 
-  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, BeautifulSoup, Bootstrap, MongoDB database
+  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, BeautifulSoup 2.0.1, flask_pymongo 2.3.0, Bootstrap, MongoDB database
   
 
 --- 
