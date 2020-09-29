@@ -24,6 +24,6 @@ def scrape():
    mars.update({}, mars_data, upsert=True)
    return "Scraping Successful!"
 
-   # run Flask
-   if __name__ == "__main__":
-   app.run()
+# run Flask
+if __name__ == "__main__":
+    app.run()
