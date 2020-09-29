@@ -27,32 +27,37 @@ UTMCC DataViz Module 10
    - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
    - Deliverable 3: Add 3 Bootstrap Components.
   
-   ![](https://)
+   ![marshemi1.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/marshemi1.png)
    
 
    ### Resources
   * Data/content sources: NASA web content 
-  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, Beautiful Soup, Bootstrap, MongoDB database
+  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, BeautifulSoup, Bootstrap, MongoDB database
   
 
 --- 
 
 ## Results
   
-  ### Deliverable 1
+  #### Deliverable 1
   
   
   
   
-  ### Deliverable 2
+  #### Deliverable 2
   
   
   
   
-  ### Deliverable 3
+  #### Deliverable 3
 
 
 
+
+
+
+
+---
 
 
 ## Summary
