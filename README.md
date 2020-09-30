@@ -23,12 +23,12 @@ UTMCC DataViz Module 10
    
   
    The deliverables are: 
-   - Deliverable 1: Scrape High-Resolution Mars Hemisphere Images and Titles
-   - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
-   - Deliverable 3: Add 3 Bootstrap Components.
+    - Deliverable 1: Scrape High-Resolution Mars Hemisphere Images and Titles
+    - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
+    - Deliverable 3: Add 3 Bootstrap Components.
   
-   ![marshemi1.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/marshemi1.png)
-   ![MissionToMars_home.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/MissionToMars_home.png)
+   
+   ![MissionToMars_home1.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/MissionToMars_home1.png)
 
    ### Resources
   * Data/content sources: NASA web content 
