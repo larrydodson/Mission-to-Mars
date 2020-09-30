@@ -23,16 +23,16 @@ UTMCC DataViz Module 10
    
   
    The deliverables are: 
-    - Deliverable 1: Scrape High-Resolution Mars Hemisphere Images and Titles
-    - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
-    - Deliverable 3: Add 3 Bootstrap Components.
+   - Deliverable 1: Scrape High-Resolution Mars Hemisphere Images and Titles
+   - Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
+   - Deliverable 3: Add 3 Bootstrap Components.
   
    
    ![MissionToMars_home1.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/MissionToMars_home1.png)
 
    ### Resources
-  * Data/content sources: NASA web content 
-  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, BeautifulSoup 2.0.1, flask_pymongo 2.3.0, Bootstrap 3.3.7, MongoDB database
+  * Data/content sources: NASA and JPL web content 
+  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, BeautifulSoup 2.0.1, Flask 1.1.2, flask_pymongo 2.3.0, Bootstrap 3.3.7, MongoDB 4.4.1
   
 
 --- 
