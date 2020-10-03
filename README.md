@@ -36,12 +36,12 @@ UTMCC DataViz Module 10
 
 ## Results
   
-  #### Deliverable 1
-   **Scrape High-Resolution Mars Hemisphere Images and Titles** 
-    * Please see the file  Mission_to_Mars_Challenge.ipynb  to see 1) code for retrieving the full-resoluiton image and title for each hemisphere, 2) code with for looping to scrape for the hemisphere images. 
+  ### Deliverable 1  --  Scrape High-Resolution Mars Hemisphere Images and Titles 
+    
+    Please see the file  Mission_to_Mars_Challenge.ipynb  to see 1) code for retrieving the full-resolution image and title for each hemisphere, 2) code with for looping to scrape for the hemisphere images. 
     
     
-   **In Figure-1, Confirmaton of "Scraping Sucess"**:  
+   **In Figure-1, Confirmation of "Scraping Successful"**:  
   ![](https://github.com/larrydodson/Mission-to-Mars/blob/master/scrape_success.png)
   
   
@@ -55,40 +55,28 @@ UTMCC DataViz Module 10
  
  .
  
-  #### Deliverable 2
-   **Update the Web App with Mars Hemisphere Images and Titles** 
+  ### Deliverable 2 --  Update the Web App with Mars Hemisphere Images and Titles 
    
-   **Special Note: due to the website source for the Mars Hemisphere images being unavaible, these images are not yet shown at this time. These will be added as soon as they are available and submitted. (for completion of this Deliverable 2).** 
-   
+   ***Special Note: due to the website source for the Mars Hemisphere images being unavaible, these images are not yet shown at this time. These will be added as soon as they are available and submitted. (for completion of this Deliverable 2).*** 
    
    
-   **Figure-4, Copy of Mission To Mars web-page, with Bootstrap components added.**  Page is showing as "iPad Pro" screen. 
+   **Figure-4, Copy of Mission To Mars web-page, with Bootstrap components added.**  The Page copy is showing as the "iPad Pro" screen. 
    ![MissionToMars_home_partial.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/MissionToMars_home_partial.png)
  
-  
-
 
 .
 
-  #### Deliverable 3
-   **3 Bootstrap Components Added**
+  ### Deliverable 3  --  Three Bootstrap Components Added 
  1. **Tables**: Added styles to both tables, "Facts" and "Weather": "table-striped", "table-bordered", "table-hover"
- 2. **Responsive / Mobile-responsive**: for both tables, added "table-responsive"; and, Bootstrap is inherently "Responsive" and have confirmed respponsiveness within Chrome "Inspect" tool.  The image above showing the web-page is for the "iPad Pro" screen. 
+ 2. **Responsive / Mobile-responsive**: for both tables, added "table-responsive"; and, Bootstrap is inherently "Responsive" and have confirmed responsiveness within Chrome "Inspect" tool.  The image above showing the web-page is for the "iPad Pro" screen. 
  3. **Background(s)**: 1) Added web page black background and white text in the page's "body", with: <body class="text-white" style="background-color:black;">; and added picture background of a "Mars horizon". 
- 4. **Scrape New Data button**: Within the "Jumbotron" header "scraping button", have changed color and using white text to make it stand-out, with: <a class="btn btn-primary btn-lg text-white" style="background-color:#782a09;" href="/scrape" role="button">Scrape New Data <br> "Refresh"</a>
- 5. Also, Added extra line white spacing around Weather Table and the Hemispheres page areas for more separation.
- 6. Also, Added "Footer" to show end-of-page, and for customization.
+ 4. **Scrape New Data button**: Within the "Jumbotron" header "scraping button", have changed color and using white text to make it stand-out, with: <a class="btn btn-primary btn-lg text-white" style="background-color:#782a09;" href="/scrape" role="button">Scrape New Data "Refresh"</a>
+ 5. Also, added extra line white spacing around Weather Table and the Hemispheres page areas for more separation.
+ 6. Also, added a "Footer" to show end-of-page, and for customization.
  
 
 .
 
 ---
-
-
-## Summary
-
-
-
-.
 
 .end 
