@@ -68,9 +68,9 @@ UTMCC DataViz Module 10
 
   ### Deliverable 3  --  Three Bootstrap Components Added 
  1. **Tables**: Added styles to both tables, "Facts" and "Weather": "table-striped", "table-bordered", "table-hover"
- 2. **Responsive / Mobile-responsive**: for both tables, added "table-responsive"; and, Bootstrap is inherently "Responsive" and have confirmed responsiveness within Chrome "Inspect" tool.  The image above showing the web-page is for the "iPad Pro" screen. 
- 3. **Background(s)**: 1) Added web page black background and white text in the page's "body", with: /<body class="text-white" style="background-color:black;">; and 2) added an image background of a "Mars horizon". 
- 4. **Scrape New Data button**: Within the "Jumbotron" header "scraping button", have changed color and using white text to make it stand-out, with: /<a class="btn btn-primary btn-lg text-white" style="background-color:#782a09;" href="/scrape" role="button">Scrape New Data "Refresh"/</a>
+ 2. **Responsive / Mobile-responsive**: for both tables, added "table-responsive"; and, Bootstrap is inherently "Responsive" and have confirmed responsiveness within Chrome "Inspect" tool.  The image above in Figure-4 showing the web-page is for the "iPad Pro" screen. 
+ 3. **Background(s)**: 1) Added web page black background and white text in the page's "body", with: body class="text-white" style="background-color:black;"; and 2) added an image background of a Mars horizon. 
+ 4. **Scrape New Data button**: Within the "Jumbotron" header "scraping button", have changed color and using white text to make it stand-out, with: class="btn btn-primary btn-lg text-white" style="background-color:#782a09;" href="/scrape" role="button" for Scrape New Data "Refresh".
  5. Also, added extra line white spacing around Weather Table and the Hemispheres page areas for more separation.
  6. Also, added a "Footer" to show end-of-page, and for customization.
  
