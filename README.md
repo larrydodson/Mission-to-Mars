@@ -60,7 +60,7 @@ UTMCC DataViz Module 10
    
    
    **Figure-4, Copy of Mission To Mars web-page, with Bootstrap components added.**  The Page copy is showing as the "iPad Pro" screen. 
-   ![MissionToMars_home_partial.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/MissionToMars_home_partial.png)
+   ![MissionToMars_homepage.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/MissionToMars_homepage.png)
  
  
 
