@@ -180,6 +180,23 @@ for i in main_url:
 # 4. Print the list that holds the dictionary of each image url and title.
     hemisphere_image_urls
 
+
+# Mongodb Helper Function
+def scrape_hemisphere(html_text):
+    hemisphere_soup = soup(html_text, "html.parser")
+    try: 
+        title_element = hemisphere_soup.find("h2", class_="title").get_text()
+        sample_element = hemisphere_soup.find("a", text="Sample").get("href")
+    except AttributeError:
+        title_element = None
+        sample_element = None 
+    hemisphere = {
+        "title": title_element,
+        "img_url": sample_element
+    }
+    return hemisphere
+
+
 # 5. Quit the browser
 browser.quit()
 
