@@ -48,14 +48,14 @@ UTMCC DataViz Module 10
   **Figure-2, Confirmation of dictionary items, for titles and hemisphere images**:   
   ![dictionary_items.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/dictionary_items.png)
   
-  
-  **Figure-3, Confirmation and Status of Mongo Database**:   
-  ![mongo_confirm.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/mongo_confirm.png)
-  
  
  .
  
   ### Deliverable 2 --  Update the Web App with Mars Hemisphere Images and Titles 
+   
+   **Figure-3, Confirmation and Status of Mongo Database - containing All Four of hemisphere titles and the full-resolution image URLs.**: 
+  ![mongo_confirm.png](https://github.com/larrydodson/Mission-to-Mars/blob/master/mongo_confirm.png)
+    
    
    ***Special Note: due to the website source for the Mars Hemisphere images being unavaible, these images are not yet shown at this time. These will be added as soon as they are available and (re)submitted. (for completion of this Deliverable 2).*** 
    
@@ -74,8 +74,6 @@ UTMCC DataViz Module 10
  5. Also, added extra line white spacing around Weather Table and the Hemispheres page areas for more separation.
  6. Also, added a "Footer" to help indicate the end-of-page, and for customization.
  
-
-.
 
 ---
 
