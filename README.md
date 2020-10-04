@@ -38,7 +38,7 @@ UTMCC DataViz Module 10
   
   ### Deliverable 1  --  Scrape High-Resolution Mars Hemisphere Images and Titles 
     
-    Please see the file  Mission_to_Mars_Challenge.ipynb  to see 1) code for retrieving the full-resolution image and title for each hemisphere, 2) code with for looping to scrape for the hemisphere images. 
+   * Please see the file  Mission_to_Mars_Challenge.ipynb  to see 1) the code for retrieving the full-resolution image and title for each hemisphere, and 2) the code with for looping to scrape for the hemisphere images. 
     
     
    **In Figure-1, Confirmation of "Scraping Successful"**:  
